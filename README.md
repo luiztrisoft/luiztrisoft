@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá! 👋
+Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisas no github. Atualmente sou desenvolvedor fullstack atuando com ReactJS e Java(Spring boot).
+
 
 <!--
 **luiztrisoft/luiztrisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
