@@ -4,6 +4,8 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/LuizAlbertoTiko)](https://youtube.com/c/LuizAlbertoTiko)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alberto)](https://www.linkedin.com/in/luiz-alberto)
 
+
+Java Spring JavaScript Nodejs HTML5 CSS3 Sass Bootstrap TypeScript Angular Sencha Ionic NestJS Microsoft SQL Server MongoDB MySQL Docker Microsoft Azure Google Cloud Firebase Oracle Cloud Git GitHub BitBucket JIRA JFrog IntelliJ Eclipse VSCode
 <!--
 **luiztrisoft/luiztrisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
