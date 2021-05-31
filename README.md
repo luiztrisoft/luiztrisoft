@@ -8,17 +8,24 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  height="25px">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25px">
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  height="25px">
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25px">
  <img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"   height="25px">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px"> 
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25px">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px">
  
  
- <img src="" >
- <img src="" >
- <img src="" >
- <img src="" >
- <img src="" >
- <img src="" > 
- <img src="" >
- 
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="" height="25px">
+ <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" > 
+ <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="25px">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" > 
  <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;" height="20px">
 </p>
 Java Spring JavaScript Nodejs HTML5 CSS3 Sass Bootstrap TypeScript Angular Sencha Ionic NestJS Microsoft SQL Server MongoDB MySQL Docker Microsoft Azure Google Cloud Firebase Oracle Cloud Git GitHub BitBucket JIRA JFrog IntelliJ Eclipse VSCode
