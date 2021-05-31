@@ -1,8 +1,10 @@
 ### Olá! 👋
-Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisas no github. Atualmente sou desenvolvedor fullstack atuando com ReactJS e Java(Spring boot).
+Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisas no github. 
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/LuizAlbertoTiko)](https://youtube.com/c/LuizAlbertoTiko)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alberto)](https://www.linkedin.com/in/luiz-alberto)
+
+Aqui seguem algumas tecnologias e ferramentas que uso no meu dia a dia
 <p>
 <img src="https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" height="25px">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  height="25px">
