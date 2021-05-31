@@ -5,12 +5,12 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alberto)](https://www.linkedin.com/in/luiz-alberto)
 <p>
 <img src="https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="Java">
-
  <img src="https://camo.githubusercontent.com/d8f7e93bdb728c656b784b48c9229b2224067c147978e345773f21c0ac43f324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" >
+ <img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" >
  
- <img src="" >
- <img src="" >
- <img src="" >
+ 
  <img src="" >
  <img src="" >
  <img src="" >
