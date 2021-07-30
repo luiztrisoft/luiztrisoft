@@ -1,7 +1,7 @@
 ### Olá! 👋
 Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisas no github. 
 
-<img heighht="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true"/>
+<img heighht="180em" src="https://github-readme-stats.vercel.app/api?username=luiztrisoft&count_private=true&show_icons=true&theme=radical"/>
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/LuizAlbertoTiko)](https://youtube.com/c/LuizAlbertoTiko)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alberto)](https://www.linkedin.com/in/luiz-alberto)
