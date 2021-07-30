@@ -9,6 +9,7 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiztrisoft&count_private=true&show_icons=true&theme=vue-dark&hide=contribs,prs"/>
 </div>
 
+
 <p>
 <img src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" height="25px">
  <img src="https://camo.githubusercontent.com/065f39d92eebaf868df462ffcca552c1b5af0278ec523f35fe6a6cae16cea2e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a61766166782532302d3462396464372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" height="25px">
