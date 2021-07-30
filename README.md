@@ -5,8 +5,8 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-alberto)](https://www.linkedin.com/in/luiz-alberto)
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiztrisoft&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiztrisoft&layout-compact&langs_count-16&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiztrisoft&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs"/>
 </div>
 
 <p>
