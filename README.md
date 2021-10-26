@@ -38,22 +38,7 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
 </p>
 
 
-<div class="Box mb-5 p-3 activity-overview-box border-top border-xl-top-0">
-    
 
-
-      <div class="d-flex flex-column flex-lg-row">
-        <div class="col-12 col-lg-6 d-flex flex-column pr-lg-5">
-          <h5 class="mb-3 text-normal">
-            Activity
-              overview
-          </h5>
-          
-
-
-        </div>
-
-        <div class="pl-lg-3 col-6 border-lg-left">
           
 
   <div class="js-activity-overview-graph-container" data-percentages="{&quot;Commits&quot;:46,&quot;Code review&quot;:28,&quot;Pull requests&quot;:26,&quot;Issues&quot;:0}">
@@ -82,12 +67,7 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
     </svg>
   </div>
 
-        </div>
-      </div>
-  </div>
-
-    </div>
-</div>
+       
 
 <!--
 **luiztrisoft/luiztrisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
