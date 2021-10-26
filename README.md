@@ -35,39 +35,7 @@ Meu nome é Luiz e você está visitando meu repositório de projetos e pesquisa
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px">
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="25px"> 
  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" height="25px">
-</p>
-
-
-
-          
-
-  <div class="js-activity-overview-graph-container" data-percentages="{&quot;Commits&quot;:46,&quot;Code review&quot;:28,&quot;Pull requests&quot;:26,&quot;Issues&quot;:0}">
-    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="js-activity-overview-graph-spinner d-block mx-auto mt-4 anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-    <svg class="js-activity-overview-graph d-none mx-auto " xmlns="http://www.w3.org/2000/svg">
-      <g>
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" opacity="0.5" stroke-width="7" />
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis " />
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis " />
-        <ellipse class="activity-overview-point js-highlight-top-ellipse " rx="3" ry="3" stroke-width="2" fill="white" />
-        <ellipse class="activity-overview-point js-highlight-right-ellipse " rx="3" ry="3" stroke-width="2" fill="white" />
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse " rx="3" ry="3" stroke-width="2" fill="white" />
-        <ellipse class="activity-overview-point js-highlight-left-ellipse " rx="3" ry="3" stroke-width="2" fill="white" />
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top"></text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top"></text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right"></text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right"></text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom"></text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom"></text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left"></text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left"></text>
-      </g>
-    </svg>
-  </div>
-
-       
+</p>     
 
 <!--
 **luiztrisoft/luiztrisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
